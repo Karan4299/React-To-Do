@@ -1,6 +1,7 @@
 {
-  "homepage": "http://karan4299.github.io/React-To-Do",
+  
   "name": "to-do-list",
+  "homepage": "http://karan4299.github.io/React-To-Do",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
