@@ -1,0 +1,9 @@
+.clicked{
+    background-color: #306CDE !important;
+    color:white;
+}
+
+.clicked p{
+    color: white !important;
+    font-weight: bold;
+}
