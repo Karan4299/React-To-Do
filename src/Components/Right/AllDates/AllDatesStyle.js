@@ -27,6 +27,10 @@ export const AllDateFrame = styled.div`
         // background-color:red;
         overflow:scroll !important;
         margin-top:8%;
+
+        ::-webkit-scrollbar{
+            display:none;
+        }
     }
 `;
 

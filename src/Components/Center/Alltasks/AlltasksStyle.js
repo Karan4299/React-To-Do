@@ -10,6 +10,10 @@ export const AllFrame = styled.div`
     justify-content:flex-start;
     padding:10px; 
     overflow:scroll;
+
+    ::-webkit-scrollbar{
+        display:none;
+    }
 `;
 
 export const Task = styled.div`
@@ -21,6 +25,7 @@ export const Task = styled.div`
     justify-content:flex-start;
     align-items:center;
     padding:5px 0px; 
+
 
     input{
         width:15%;
